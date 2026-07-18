@@ -39,4 +39,5 @@ Amazon heavily blocks automated scripts. The code includes a custom User-Agent i
 ### How to Run the Script
 
 python amazon_scraper.py
-Note: The script runs on an infinite while(True) loop set to check every 5 seconds by default. You can change time.sleep(5) to time.sleep(86400) if you want to check the price once every day.
+
+### Note: The script runs on an infinite while(True) loop set to check every 5 seconds by default. You can change time.sleep(5) to time.sleep(86400) if you want to check the price once every day.
