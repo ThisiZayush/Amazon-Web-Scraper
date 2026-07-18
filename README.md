@@ -25,7 +25,6 @@ A Python-based web scraper that automatically tracks the price of a specific pro
 
 Ensure you have Python installed. You can install the required external libraries using `pip`:
 
-```bash
 pip install beautifulsoup4 requests pandas
 
 ### 2. Update File Paths
