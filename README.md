@@ -1,4 +1,3 @@
-[Readme.txt](https://github.com/user-attachments/files/30152865/Readme.txt)
 # Amazon Price Tracker Bot 🕷️💰
 
 A Python-based web scraper that automatically tracks the price of a specific product on Amazon at regular intervals and appends the data (Product Name, Price, Date, and Time) into a local CSV file for historical tracking and analysis.
